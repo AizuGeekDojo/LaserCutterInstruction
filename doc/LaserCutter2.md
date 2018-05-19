@@ -31,42 +31,42 @@
 
 #### 使う際の流れ  
 - データをillusutaraterで開く  
-    ![](image/mdf-1.jpg)
+    ![](image/mdf-1.jpg)  
 - オプションを設定し、印刷  
-    ![](image/mdf-7.jpg)
-    ![](image/mdf-8.jpg)
-    ![](image/mdf-9.jpg)
+    ![](image/mdf-7.jpg)  
+    ![](image/mdf-8.jpg)  
+    ![](image/mdf-9.jpg)  
 
 - JCでレーザーカッターと接続  
-    ![](image/mdf-2.jpg)
+    ![](image/mdf-2.jpg)  
     上記の操作をするとJCというソフトが立ち上がります。
     まず、レーザーカッターと、JCを接続しましょう
     USBマークのボタンをクリックしてください。
-    ![](image/mdf-6.jpg)
+    ![](image/mdf-6.jpg)  
     すると接続ができ、十字マークが画面に出ます。
     それが、レーザーの位置です。
 
 - データの配置  
     接続ができたら、データの配置をしましょう
     右側の欄に、先ほどプリントをしたデータの名前が出ています。
-    ![](image/mdf-4.jpg)
+    ![](image/mdf-4.jpg)  
     JCの画面は、レーザーカッターの面と同期されているので、それを印刷したい場所にドラッグ&ドロップで起きましょう。レーザーの位置におくのが良いです。
-    ![](image/mdf-5.jpg)
-    
+    ![](image/mdf-5.jpg)  
+
 - スタート  
     印刷の準備が整いましたら、 スタートしましょう
-    ![](image/mdf-15.jpg)
+    ![](image/mdf-15.jpg)  
 
 #### 覚えておくといいこと
 - 回転  
     右クリックすると回転を選択できます。
     イラストレーターでも回転できますが、ここでもできます。
 - 複製  
-    
+
 - プレビュー  
     右上の目のマークを押すと、プレビューができます。
 
 ## 終わりに
-詳しい使い方は、Trotecの公式ページに書いてあります。
+詳しい使い方は、Trotecの公式ページに書いてあります。  
 みると良いでしょう  
 [公式ページ使い方](https://www.troteclaser.com/ja/knowledge/tips-for-laser-users/laser-from-adobe-illustrator/)
