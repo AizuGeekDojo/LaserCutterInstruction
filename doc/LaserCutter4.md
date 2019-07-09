@@ -1,5 +1,5 @@
 
-# Aizu Geek Dojo 講習 (レーザーカッター①)
+# Aizu Geek Dojo 講習 (Photopiaからファイル作成)
  
 ## 目次
 
