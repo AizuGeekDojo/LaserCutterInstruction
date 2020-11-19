@@ -45,7 +45,26 @@
 #### 使う際の流れ  
 - データをillusutaraterで開く  
     ![](image/mdf-1.jpg)  
-- オプションを設定し、印刷  
+- 以下を参考にオプションを設定し、印刷  
+
+    - Speedy100 サイズ設定
+        - User-defined Size
+        - 幅 610mm
+        - 高さ 305mm
+        - ジョブサイズに最小化
+    - Speedy300 サイズ設定
+        - User-defined Size
+        - 幅 726mm
+        - 高さ 432mm
+        - ジョブサイズに最小化
+
+    - 共通 加工オプション
+        - 加工モード: レリーフ
+        - カットライン: 無し
+        - 解像度: お好みで   
+
+    変更したら戻すこと
+
     ![](image/mdf-7.jpg)  
     ![](image/mdf-8.jpg)  
     ![](image/mdf-9.jpg)  
