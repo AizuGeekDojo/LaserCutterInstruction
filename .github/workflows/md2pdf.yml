@@ -1,0 +1,28 @@
+name: Create PDF and release
+on:
+  push:
+    branches:
+      - master
+      - add_ci
+
+jobs:
+  release:
+    name: Create PDF and release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Install fonts
+        run: sudo apt update && sudo apt install fonts-takao
+      - name: Install tools
+        run: sudo npm -g install md-to-pdf --unsafe-perm=true
+      - name: Convert to PDF and compress as zip
+        run: |
+          cd doc
+          md-to-pdf *.md
+          zip lcdocs.zip *.pdf
+      - name: (TEST) upload as artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: lcdocs.zip
+          path: ./doc/lcdocs.zip
