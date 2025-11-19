@@ -28,9 +28,9 @@ Aizu Geek Dojoには２台のレーザーカッターがあります。
 #### 加工できる素材
 AizuGeekDojoにあるレーザーカッターでは主に以下の材料を加工することができます。
 
-| 紙、ダンボール | アクリル板 | MDF | レーザー加工用スタンプゴム | 皮革 |
-| :---------: | :-------:| :-----: | :--------------: | :-----: |
-|![cardboard](./image/cardboard.jpg)|![acril](./image/acrylic.jpg)|![MDF](./image/mdf.jpg)|![gum](./image/gum.jpg)|![leather](./image/leather.jpg)|
+| アクリル板 | MDF | レーザー加工用スタンプゴム | 皮革 |
+| :-------:| :-----: | :--------------: | :-----: |
+|![acril](./image/acrylic.jpg)|![MDF](./image/mdf.jpg)|![gum](./image/gum.jpg)|![leather](./image/leather.jpg)|
 
 - 紙、段ボール
 - アクリル板
